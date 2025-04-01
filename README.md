@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @tanmayrajurkar
-- 👀 I’m interested in coding, singing.
-- 🌱 I’m currently learning blockchian technology.
-- 💞️ I’m looking to collaborate on web-development, and blockchain development
-- 📫 You can reach me on my instagram handel @tanmayrajurkar
+# Hi there, I'm Tanmay Rajurkar 👋
 
-<!---
-tanmayrajurkar/tanmayrajurkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm an AI/ML enthusiast and a startup founder, passionate about building scalable solutions that impact industries. Currently, I'm a sophomore at **VIT-AP**, working on multiple projects in AI, ML, and software development. I have experience in open-source development, hackathons, and launching startups in transportation, healthcare, and fintech.
+
+### 🔭 Currently Working On
+- **Paras** 🚗: Smart parking automation system using ML, Data Analytics, and IoT (SIH'24 Winning Project, launching in Australia 🇦🇺).
+- **NIKARE** 🏥: Cloud-based HMS, EMR, and referral system for efficient healthcare management.
+- **GSoC 2025** 🏆: Applying for **Google Summer of Code**, working on OSS agent tools, ML-based scorecards, and security vulnerability scanners.
+- **Forest Naturals** 🌿: A brand promoting organic food products to support tribal communities.
+
+### 💡 Previous Experience
+- **ParkEse** 🚘: Smart urban parking solution integrating Supabase and AI-powered optimization.
+- **KrishiPrabha** 🌾: Agricultural innovation project to enhance farmer productivity.
+- **BorderlessPay** 💱: Crypto-based financial platform (focused on international markets).
+
+### 🏆 Achievements
+- **Winner of Smart India Hackathon (SIH) 2024** 🏅
+- **Selected for EUREKA'24 (IIT Bombay ECELL)** 🚀
+- **Collaborating with investors & industry leaders for global product launches**
+
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript (Node.js, React), C/C++, Java
+- **AI/ML:** TensorFlow, PyTorch, LangChain, LlamaIndex, OpenAI API, Gemini API
+- **Databases:** Supabase, PostgreSQL, Firebase, MySQL, MongoDB
+- **Cloud & DevOps:** Docker, Kubernetes, gRPC, Microservices, AWS, Google Cloud
+- **Cybersecurity:** Web vulnerability scanning, AI-based security tools, Ethical Hacking
+- **Version Control:** Git, GitHub, GitLab
+- **Other Tools:** FastAPI, Flask, Django, Next.js, Redis, RabbitMQ
+
+### 📫 Connect with Me
+- **LinkedIn:** [YourLinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tanmay-rajurkar-254305227/))
+- **Email:** tanmayrajurkar1915@gmail.com
+
+🚀 **Let's build something amazing!**
