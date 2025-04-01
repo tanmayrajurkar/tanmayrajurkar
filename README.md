@@ -29,7 +29,6 @@ I'm an AI/ML enthusiast and a startup founder, passionate about building scalabl
 - **Other Tools:** FastAPI, Flask, Django, Next.js, Redis, RabbitMQ
 
 ### 📫 Connect with Me
-- **LinkedIn:** [YourLinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tanmay-rajurkar-254305227/))
 - **Email:** tanmayrajurkar1915@gmail.com
 
 🚀 **Let's build something amazing!**
