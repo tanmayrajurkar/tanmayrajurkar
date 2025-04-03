@@ -20,11 +20,10 @@ I'm an AI/ML enthusiast and a startup founder, passionate about building scalabl
 - **Collaborating with investors & industry leaders for global product launches**
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript (Node.js, React), C/C++, Java
+- **Languages:** Python, JavaScript (Node.js, React, next.js), C/C++, Java
 - **AI/ML:** TensorFlow, PyTorch, LangChain, LlamaIndex, OpenAI API, Gemini API
 - **Databases:** Supabase, PostgreSQL, Firebase, MySQL, MongoDB
 - **Cloud & DevOps:** Docker, Kubernetes, gRPC, Microservices, AWS, Google Cloud
-- **Cybersecurity:** Web vulnerability scanning, AI-based security tools, Ethical Hacking
 - **Version Control:** Git, GitHub, GitLab
 - **Other Tools:** FastAPI, Flask, Django, Next.js, Redis, RabbitMQ
 
