@@ -6,7 +6,7 @@ I'm an AI/ML enthusiast and a startup founder, passionate about building scalabl
 ### 🔭 Currently Working On
 - **Paras** 🚗: Smart parking automation system using ML, Data Analytics, and IoT (SIH'24 Winning Project, launching in Australia 🇦🇺).
 - **HReferral** 🏥: Cloud-based HMS, EMR, and referral system for efficient healthcare management.
-- **GSoC 2025** 🏆: Applying for **Google Summer of Code**, working on OSS agent tools, ML-based scorecards, and security vulnerability scanners.
+- **GSoC 2025** 🏆: Applying for **Google Summer of Code**
 - **Forest Naturals** 🌿: A brand promoting organic food products to support tribal communities.
 
 ### 💡 Previous Experience
