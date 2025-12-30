@@ -16,7 +16,7 @@ I’m currently a sophomore at **VIT–AP**, with hands-on experience building 0
   🏆 *Winner — Smart India Hackathon 2024*  
   🌏 Preparing for launch and international pilots
 
-- **Assetary / Reltin 🏗️** — Product & operations work on a real-estate investment platform focused on transparent, low-ticket digital investing
+- **Assetary / Reltin 🏗️** — Product & operations work on a real-estate data platform focused on transparent, unbiased data
 
 - **Product Case Studies 📊** — Independent teardowns and concept work (Nykaa, YouTube) focused on user journeys, metrics, and feature prioritization
 
