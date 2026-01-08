@@ -70,7 +70,7 @@ I’m currently a sophomore at **VIT–AP**, with hands-on experience building 0
 
 ## 📫 Connect With Me
 - 📧 Email: **tanmayrajurkar1915@gmail.com**
-- 🌐 Portfolio: http://tanmayrajurkar.xyz
+- 🌐 Portfolio: [http://tanmayrajurkar.netlify.app](https://tanmayrajurkar.netlify.app)
 
 ---
 
