@@ -1,77 +1,106 @@
-# Hi there, I'm Tanmay Rajurkar 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Tanmay+Rajurkar+%F0%9F%91%8B;Builder+of+Real-World+AI+Systems;Startup+Founder+%7C+Product+Owner;Winner+SIH+2025+%26+2024" alt="Typing SVG" />
+</div>
 
-## 🚀 About Me
-I’m a product-focused builder and startup founder who enjoys working at the intersection of **AI, data, and real-world systems**. I care deeply about understanding user problems, designing decision-driven products, and shipping solutions that operate at scale.
+<div align="center">
+  <a href="https://tanmayrajurkar.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tanmayrajurkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tanmayrajurkar1915@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/tanmayrajurkar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-I’m currently a sophomore at **VIT–AP**, with hands-on experience building 0→1 platforms across **GovTech, Infrastructure, FinTech, Healthcare, and Urban Mobility**. I’ve led products end-to-end—from problem framing and user research to system design and deployment—often in fast-paced, high-ambiguity environments.
+<br />
+
+<div align="center">
+  <b>Wait... who?</b>
+  <br/>
+  I’m a product-focused builder and founder working at the intersection of <b>AI, Data, and Real-World Systems</b>. I care deeply about understanding user problems and shipping solutions that operate at scale.
+  <br/><br/>
+  Currently a 3rd year student at <b>VIT–AP</b> building <b>0→1 platforms</b> across <i>GovTech, Infrastructure, FinTech, & Urban Mobility</i>.
+</div>
 
 ---
 
-## 🔭 Currently Working On
-- **SAGAR 🌊** — AI-driven marine & geospatial intelligence platform for large-scale environmental and infrastructure decision-making  
-  🏆 *Winner — Smart India Hackathon 2025*  
-  🔗 https://sagar-v1.vercel.app
+## ⚡ Tech & Tools
 
-- **PARAS 🚗** — AI-powered smart parking system using predictive analytics to reduce parking search time  
-  🏆 *Winner — Smart India Hackathon 2024*  
-  🌏 Preparing for launch and international pilots
+<div align="center">
 
-- **Assetary / Reltin 🏗️** — Product & operations work on a real-estate data platform focused on transparent, unbiased data
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-- **Product Case Studies 📊** — Independent teardowns and concept work (Nykaa, YouTube) focused on user journeys, metrics, and feature prioritization
+  <br />
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</div>
+
+---
+
+## 🔭 Currently Building
+
+| Project | Description & Status | Stack |
+| :--- | :--- | :--- |
+| **SAGAR 🌊** | **AI-driven marine & geospatial intelligence platform.**<br>🏆 *Winner — Smart India Hackathon 2025*<br>🔗 [Live Link](https://sagar-v1.vercel.app) | ![AI](https://img.shields.io/badge/AI-GovTech-blue) |
+| **PARAS 🚗** | **Predictive smart parking system.**<br>🏆 *Winner — Smart India Hackathon 2024*<br>🌏 *Preparing for international pilots* | ![IoT](https://img.shields.io/badge/IoT-Urban_Mobility-green) |
+| **Assetary 🏗️** | **Real-estate data platform.**<br>Focusing on transparent, unbiased data operations. | ![Fintech](https://img.shields.io/badge/PropTech-Data-orange) |
+| **Case Studies 📊** | **Teardowns (Nykaa, YouTube)**<br>Focusing on user journeys, metrics, and feature prioritization. | ![Product](https://img.shields.io/badge/Product-Case_Study-purple) |
 
 ---
 
 ## 💡 Previous Work
-- **BorderlessPay 💱** — Founder & CPO  
-  Cross-border payments platform; led product discovery, roadmap, and an AI-powered fraud detection system improving retention and reducing errors.
 
-- **Forest Naturals 🌿 (Bastar Se Bazar Tak)** — Product Strategy  
-  GTM and product analysis work that helped triple revenue and reduce operational costs.
-
-- **ParkEse 🚘** — Smart urban parking platform integrating vision, sensors, and Supabase-based data pipelines.
-
-- **KrishiPrabha 🌾** — Early agri-tech initiative focused on farmer productivity and decision support.
+| Role | Company / Project | Impact |
+| :--- | :--- | :--- |
+| **Founder & CPO** | **BorderlessPay 💱** | Built AI fraud detection system; improved retention. |
+| **Product Strategy** | **Forest Naturals 🌿** | GTM strategy helped **triple revenue**. |
 
 ---
 
-## 🏆 Achievements
-- 🏅 **Winner — Smart India Hackathon 2025** (Project: SAGAR)
-- 🏅 **Winner — Smart India Hackathon 2024**
-- 🏅 **Winner — Post-A-Thon Hackathon** (24-hour national hackathon by Indian Post)
-- 🥈 **1st Runner Up — Google Dev Sprint 2024**
-- 🚀 **Selected for EUREKA’24 — IIT Bombay (E-Cell)**
+## 🏆 Hall of Fame
+
+<div align="center">
+  <img src="https://img.shields.io/badge/WINNER-Smart%20India%20Hackathon%202025-FFD700?style=flat-square&logo=trophy" />
+  <img src="https://img.shields.io/badge/WINNER-Smart%20India%20Hackathon%202024-FFD700?style=flat-square&logo=trophy" />
+  <br/>
+  <img src="https://img.shields.io/badge/WINNER-Post_A_Thon_(Indian_Post)-silver?style=flat-square&logo=medal" />
+  <img src="https://img.shields.io/badge/1st_Runner_Up-Google_Dev_Sprint-cd7f32?style=flat-square&logo=google" />
+  <img src="https://img.shields.io/badge/Selected-EUREKA_IIT_Bombay-blue?style=flat-square&logo=iit" />
+</div>
 
 ---
 
-## 🧠 What I Like Building
-- Products where **data → insight → decision** matters
-- Systems that operate in **messy, real-world environments**
-- Early-stage products with high ownership and ambiguity
-- AI as a **means**, not an end
+## 📊 Development Metrics
+
+<div align="center">
+  <img src="https://tanmay-github-readme-stats.vercel.app/api?username=tanmayrajurkar&show_icons=true&theme=radical&hide_border=true&bg_color=181818&hide_rank=true&show=prs_merged" height="150" alt="stats graph"  />
+  <img src="https://tanmay-github-readme-stats.vercel.app/api/top-langs?username=tanmayrajurkar&layout=compact&langs_count=6&card_width=320&theme=radical&hide_border=true&bg_color=181818" height="150" alt="languages graph"  />
+</div>
 
 ---
 
-## 🛠️ Tech & Tools
-**Product & Data**
-- Product discovery, PRDs, user research, metrics, prioritization
-- SQL, Python (Pandas), A/B testing, dashboarding
-
-**Engineering**
-- **Languages:** Python, JavaScript, C/C++, Java  
-- **Backend:** FastAPI, Flask, Django, Node.js  
-- **Frontend:** React, Next.js  
-- **AI/ML:** PyTorch, TensorFlow, LangChain, LlamaIndex  
-- **Databases:** PostgreSQL, Supabase, MongoDB, MySQL  
-- **Infra:** Docker, Kubernetes, Microservices, gRPC  
-- **Tools:** Git, GitHub, GitLab, Figma, JIRA
-
----
-
-## 📫 Connect With Me
-- 📧 Email: **tanmayrajurkar1915@gmail.com**
-- 🌐 Portfolio: [http://tanmayrajurkar.netlify.app](https://tanmayrajurkar.netlify.app)
-
----
-
-🚀 *I’m always interested in conversations around product, AI, and building in high-growth environments. Let’s build something meaningful.*
+<div align="center">
+  <i>🚀 "AI as a means, not an end."</i>
+</div>
