@@ -75,7 +75,7 @@
 | Role | Company / Project | Impact |
 | :--- | :--- | :--- |
 | **Founder & CPO** | **BorderlessPay 💱** | Built AI fraud detection system; improved retention. |
-| **Product Strategy** | **Forest Naturals 🌿** | GTM strategy helped **triple revenue**. |
+| **Product Strategy** | **Forest Naturals 🌿** | Worked on development of an internal logistics prediction tool, GTM strategy helped **triple revenue**. |
 
 ---
 
