@@ -93,15 +93,6 @@
 
 ---
 
-## 📊 Development Metrics
-
-<div align="center">
-  <img src="https://tanmay-github-readme-stats.vercel.app/api?username=tanmayrajurkar&show_icons=true&theme=radical&hide_border=true&bg_color=181818&hide_rank=true&show=prs_merged" height="150" alt="stats graph"  />
-  <img src="https://tanmay-github-readme-stats.vercel.app/api/top-langs?username=tanmayrajurkar&layout=compact&langs_count=6&card_width=320&theme=radical&hide_border=true&bg_color=181818" height="150" alt="languages graph"  />
-</div>
-
----
-
 <div align="center">
   <i>🚀 "AI as a means, not an end."</i>
 </div>
