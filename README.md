@@ -64,10 +64,10 @@
 
 | Project | Description & Status | Stack |
 | :--- | :--- | :--- |
-| **SAGAR 🌊** | **AI-driven marine & geospatial intelligence platform.**<br>🏆 *Winner — Smart India Hackathon 2025*<br>🔗 [Live Link](https://sagar-v1.vercel.app) | ![AI](https://img.shields.io/badge/AI-GovTech-blue) |
-| **PARAS 🚗** | **Predictive smart parking system.**<br>🏆 *Winner — Smart India Hackathon 2024*<br>🌏 *Preparing for international pilots* | ![IoT](https://img.shields.io/badge/IoT-Urban_Mobility-green) |
-| **Assetary 🏗️** | **Real-estate data platform.**<br>Focusing on transparent, unbiased data operations. | ![Fintech](https://img.shields.io/badge/PropTech-Data-orange) |
-| **Case Studies 📊** | **Teardowns (Nykaa, YouTube)**<br>Focusing on user journeys, metrics, and feature prioritization. | ![Product](https://img.shields.io/badge/Product-Case_Study-purple) |
+| **SAGAR 🌊** | **AI-driven marine & geospatial intelligence platform.**<br>🏆 *Winner — Smart India Hackathon 2025*<br>🔗 [Demo Video](https://drive.google.com/file/d/1IixwOJW0ktL9nHqBxQlKwBZEwWcU40X-/view?usp=drive_link) | ![AI](https://img.shields.io/badge/AI-GovTech-blue) |
+| **PARAS 🚗** | **Predictive smart parking system.**<br>🏆 *Winner — Smart India Hackathon 2024*<br>[Live Demo](paras-v1.netlify.app) | ![IoT](https://img.shields.io/badge/IoT-Urban_Mobility-green) |
+| **Assetary 🏗️** | **Real-estate data platform.**<br>Focusing on transparent, unbiased data operations.<br> [Beta Product link](https://reltin.com/) | ![Fintech](https://img.shields.io/badge/PropTech-Data-orange) |
+| **Case Studies 📊** | **Teardowns ([Nykaa](https://drive.google.com/file/d/1Q_nIqeM14GpFfJ5svqmietqMwjZSYeGO/view) , [YouTube](https://www.linkedin.com/posts/tanmay-rajurkar-254305227_youtube-hype-case-study-tanmay-rajurkar-activity-7364757763991793664-obum))**<br>Focusing on user journeys, metrics, and feature prioritization. | ![Product](https://img.shields.io/badge/Product-Case_Study-purple) |
 
 ---
 
