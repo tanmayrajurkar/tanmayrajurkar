@@ -100,7 +100,7 @@
 
 ---
 
-## 🔭 Currently Building
+## 🔭 Project Work
 
 | Project | Description & Status | Stack |
 | :--- | :--- | :--- |
