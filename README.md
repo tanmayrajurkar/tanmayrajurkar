@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Tanmay+Rajurkar+%F0%9F%91%8B;Builder+of+Real-World+AI+Systems;Startup+Founder+%7C+Product+Manager;Winner+SIH+2025+%26+2024" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Tanmay+Rajurkar+%F0%9F%91%8B;Builder+of+Real-World+AI+Systems;Startup+Founder+%7C+Product+Manager;GSoC+'26+%40+IOOS+%F0%9F%8C%8A;Winner+SIH+2025+%26+2024" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -25,6 +25,46 @@
   I’m a product-focused builder and founder working at the intersection of <b>AI, Data, and Real-World Systems</b>. I care deeply about understanding user problems and shipping solutions that operate at scale.
   <br/><br/>
   Currently a 3rd year student at <b>VIT–AP</b> building <b>0→1 platforms</b> across <i>GovTech, Infrastructure, FinTech, & Urban Mobility</i>.
+</div>
+
+---
+
+## 🌊 Google Summer of Code 2026
+
+<div align="center">
+
+  <a href="https://summerofcode.withgoogle.com/programs/2026/projects/oMVlDkiW">
+    <img src="https://img.shields.io/badge/GSoC-2026-FBBC04?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Organization-IOOS-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white" />
+  <img src="https://img.shields.io/badge/Domain-Ocean%20%26%20Geospatial-006994?style=for-the-badge&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Selected-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" />
+
+  <br/><br/>
+
+  <table>
+    <tr>
+      <td align="left" width="100%">
+        <h3>🎯 Enhance NOS Skill Assessment Package’s User & Developer Experience</h3>
+        <p>
+          <b>Organization:</b> <a href="https://ioos.us/"><b>The U.S. Integrated Ocean Observing System (IOOS)</b></a> &nbsp;•&nbsp;
+          <b>Year:</b> GSoC 2026
+        </p>
+        <p>
+          Working with <b>NOAA / IOOS</b> to modernize the open-source <b>NOS Skill Assessment Package</b> — the toolkit oceanographers and modelers use to validate the accuracy of operational ocean forecast models against real-world observations.
+        </p>
+        <p>
+          The mission: turn a powerful but rough scientific package into something <b>delightful for users</b> and <b>welcoming for new contributors</b> — better APIs, cleaner workflows, modern tooling, sharper docs, and a developer experience that scales with the community.
+        </p>
+        <p align="center">
+          <a href="https://summerofcode.withgoogle.com/programs/2026/projects/oMVlDkiW">
+            <img src="https://img.shields.io/badge/📄_Read_the_Project_Proposal-1a73e8?style=for-the-badge&logoColor=white" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ---
@@ -75,7 +115,6 @@
 
 | Role | Company / Project | Impact |
 | :--- | :--- | :--- |
-| **Founder & CPO** | **BorderlessPay 💱** | Built AI fraud detection system; improved retention. |
 | **Product Strategy** | **Forest Naturals 🌿** | Worked on development of an internal logistics prediction tool, GTM strategy helped **triple revenue**. |
 
 ---
@@ -83,6 +122,7 @@
 ## 🏆 Hall of Fame
 
 <div align="center">
+  <img src="https://img.shields.io/badge/SELECTED-GSoC_2026_%40_IOOS-FBBC04?style=flat-square&logo=google" />
   <img src="https://img.shields.io/badge/WINNER-Smart%20India%20Hackathon%202025-FFD700?style=flat-square&logo=trophy" />
   <img src="https://img.shields.io/badge/WINNER-Smart%20India%20Hackathon%202024-FFD700?style=flat-square&logo=trophy" />
   <br/>
