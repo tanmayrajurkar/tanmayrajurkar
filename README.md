@@ -1,138 +1,148 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Tanmay+Rajurkar+%F0%9F%91%8B;Builder+of+Real-World+AI+Systems;Startup+Founder+%7C+Product+Manager;GSoC+'26+%40+IOOS+%F0%9F%8C%8A;Winner+SIH+2025+%26+2024" alt="Typing SVG" />
-</div>
+<img src="assets/hero.svg" width="100%" alt="Tanmay Rajurkar · engineer × product manager" />
 
-<div align="center">
-  <a href="https://tanmayrajurkar.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tanmay-rajurkar-254305227/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tanmayrajurkar1915@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/tanmayrajurkar">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://tanmayrajurkar.netlify.app"><b>portfolio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/tanmay-rajurkar-254305227/"><b>linkedin</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:tanmayrajurkar1915@gmail.com"><b>email</b></a>
+</p>
 
-<br />
-
-<div align="center">
-  <b>Wait... who?</b>
-  <br/>
-  I’m a product-focused builder and founder working at the intersection of <b>AI, Data, and Real-World Systems</b>. I care deeply about understanding user problems and shipping solutions that operate at scale.
-  <br/><br/>
-  Currently a 3rd year student at <b>VIT–AP</b> building <b>0→1 platforms</b> across <i>GovTech, Infrastructure, FinTech, & Urban Mobility</i>.
-</div>
-
----
-
-## 🌊 Google Summer of Code 2026
+<br/>
 
 <div align="center">
 
-  <a href="https://summerofcode.withgoogle.com/programs/2026/projects/oMVlDkiW">
-    <img src="https://img.shields.io/badge/GSoC-2026-FBBC04?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Organization-IOOS-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white" />
-  <img src="https://img.shields.io/badge/Domain-Ocean%20%26%20Geospatial-006994?style=for-the-badge&logo=googleearth&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Selected-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" />
+## PRD · Product: Tanmay Rajurkar
 
-  <br/><br/>
+`doc: LIVE` · `version: 2026.07` · `owner: tanmay` · `reviewers: you`
 
-  <table>
-    <tr>
-      <td align="left" width="100%">
-        <h3>🎯 Enhance NOS Skill Assessment Package’s User & Developer Experience</h3>
-        <p>
-          <b>Organization:</b> <a href="https://ioos.us/"><b>The U.S. Integrated Ocean Observing System (IOOS)</b></a> &nbsp;•&nbsp;
-          <b>Year:</b> GSoC 2026
-        </p>
-        <p>
-          Working with <b>NOAA / IOOS</b> to modernize the open-source <b>NOS Skill Assessment Package</b> — the toolkit oceanographers and modelers use to validate the accuracy of operational ocean forecast models against real-world observations.
-        </p>
-        <p>
-          The mission: turn a powerful but rough scientific package into something <b>delightful for users</b> and <b>welcoming for new contributors</b> — better APIs, cleaner workflows, modern tooling, sharper docs, and a developer experience that scales with the community.
-        </p>
-        <p align="center">
-          <a href="https://summerofcode.withgoogle.com/programs/2026/projects/oMVlDkiW">
-            <img src="https://img.shields.io/badge/📄_Read_the_Project_Proposal-1a73e8?style=for-the-badge&logoColor=white" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+*Most profiles are resumes. This one is a Product Requirements Document, because the product is me.*
 
 </div>
 
----
+<br/>
 
-## ⚡ Tech & Tools
+<img src="assets/terminal.svg" width="100%" alt="terminal: whoami, trophies, mission" />
 
-<div align="center">
+<br/>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+## `01` · Problem Statement
 
-  <br />
+> Most engineers build things nobody asked for.
+> Most PMs spec things they can't build.
+> **The gap between "technically works" and "people actually use it" is where products die.**
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+The market needs builders who can sit in a user interview in the morning and ship the fix by evening.
 
-  <br />
+## `02` · Proposed Solution
 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</div>
+One person, dual-core architecture:
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🔭 Project Work
+### `core[0]` · The Engineer
 
-| Project | Description & Status | Stack |
+- Builds **AI, data & geospatial systems** that survive contact with real users
+- Full-stack: FastAPI backends, React frontends, K8s deploys
+- Open source: contributing to **NOAA / IOOS** scientific tooling via GSoC 2026
+- Bias: *prototype in days, not decks*
+
+</td>
+<td width="50%" valign="top">
+
+### `core[1]` · The Product Manager
+
+- Obsessed with **user problems before solutions**
+- Writes teardowns ([Nykaa](https://drive.google.com/file/d/1Q_nIqeM14GpFfJ5svqmietqMwjZSYeGO/view), [YouTube](https://www.linkedin.com/posts/tanmay-rajurkar-254305227_youtube-hype-case-study-tanmay-rajurkar-activity-7364757763991793664-obum)) on journeys, metrics & prioritization
+- GTM strategy that **3×'d revenue** at Forest Naturals
+- Bias: *ship, measure, iterate. In that order*
+
+</td>
+</tr>
+</table>
+
+**How the two cores talk to each other:**
+
+```mermaid
+graph LR
+    A[user problem] --> B{worth solving?}
+    B -- no --> A
+    B -- yes --> C[spec it like a PM]
+    C --> D[build it like an engineer]
+    D --> E[ship 0→1]
+    E --> F[measure]
+    F -- iterate --> C
+    F -- scale --> G[real-world impact]
+```
+
+## `03` · Traction
+
+<img src="assets/metrics.svg" width="100%" alt="2× hackathon wins · GSoC 2026 · 3× revenue · 0→1 platforms" />
+
+<p align="center"><sub>also on the board: Post-A-Thon (India Post) winner · Google Dev Sprint 1st runner-up · EUREKA @ IIT Bombay</sub></p>
+
+## `04` · Shipped
+
+| Product | What & why it matters | Status |
 | :--- | :--- | :--- |
-| **SAGAR 🌊** | **AI-driven marine & geospatial intelligence platform.**<br>🏆 *Winner — Smart India Hackathon 2025*<br>🔗 [Demo Video](https://drive.google.com/file/d/1IixwOJW0ktL9nHqBxQlKwBZEwWcU40X-/view?usp=drive_link) | ![AI](https://img.shields.io/badge/AI-GovTech-blue) |
-| **PARAS 🚗** | **Predictive smart parking system.**<br>🏆 *Winner — Smart India Hackathon 2024*<br>[Live Demo](https://paras-v1.netlify.app) | ![IoT](https://img.shields.io/badge/IoT-Urban_Mobility-green) |
-| **Assetary 🏗️** | **Real-estate data platform.**<br>Focusing on transparent, unbiased data operations.<br> [Beta Product link](https://reltin.com/) | ![Fintech](https://img.shields.io/badge/PropTech-Data-orange) |
-| **Case Studies 📊** | **Teardowns ([Nykaa](https://drive.google.com/file/d/1Q_nIqeM14GpFfJ5svqmietqMwjZSYeGO/view) , [YouTube](https://www.linkedin.com/posts/tanmay-rajurkar-254305227_youtube-hype-case-study-tanmay-rajurkar-activity-7364757763991793664-obum))**<br>Focusing on user journeys, metrics, and feature prioritization. | ![Product](https://img.shields.io/badge/Product-Case_Study-purple) |
+| **SAGAR** 🌊 | **AI-driven marine & geospatial intelligence platform.** Turns ocean data into decisions for GovTech. <br/>🏆 *Winner, Smart India Hackathon 2025* · [demo video](https://drive.google.com/file/d/1IixwOJW0ktL9nHqBxQlKwBZEwWcU40X-/view?usp=drive_link) | `SHIPPED` |
+| **PARAS** 🚗 | **Predictive smart parking system** for urban mobility: IoT + ML forecasting where you'll park before you get there. <br/>🏆 *Winner, Smart India Hackathon 2024* · [live demo](https://paras-v1.netlify.app) | `LIVE` |
+| **Assetary** 🏗️ | **Real-estate data platform** built on transparent, unbiased data operations. <br/>[beta product](https://reltin.com/) | `BETA` |
+| **Teardowns** 📝 | Deep-dive case studies on **[Nykaa](https://drive.google.com/file/d/1Q_nIqeM14GpFfJ5svqmietqMwjZSYeGO/view)** & **[YouTube](https://www.linkedin.com/posts/tanmay-rajurkar-254305227_youtube-hype-case-study-tanmay-rajurkar-activity-7364757763991793664-obum)**: user journeys, metrics, feature prioritization. | `PUBLISHED` |
 
----
+## `05` · Roadmap · Now Shipping: GSoC 2026 🌊
 
-## 💡 Previous Work
+> ### Enhance NOS Skill Assessment Package's User & Developer Experience
+>
+> `org: IOOS / NOAA` · `domain: ocean & geospatial` · `status: SELECTED`
+>
+> Working with **[NOAA / IOOS](https://ioos.us/)** to modernize the open-source **NOS Skill Assessment Package**, the toolkit oceanographers use to validate operational ocean forecast models against real-world observations.
+>
+> **The mission:** turn a powerful but rough scientific package into something **delightful for users** and **welcoming for new contributors**: better APIs, cleaner workflows, modern tooling, sharper docs, and a DX that scales with the community.
+>
+> This is the dual-core in action. It's an engineering project scoped like a product problem: the "users" are scientists, the "metric" is contributor onboarding time.
+>
+> **[Read the project proposal →](https://summerofcode.withgoogle.com/programs/2026/projects/oMVlDkiW)**
 
-| Role | Company / Project | Impact |
-| :--- | :--- | :--- |
-| **Product Strategy** | **Forest Naturals 🌿** | Worked on development of an internal logistics prediction tool, GTM strategy helped **triple revenue**. |
+## `06` · Changelog
 
----
+```mermaid
+timeline
+    title Release History
+    2023 : v1.0 · Integrated M.Tech CS @ VIT-AP begins
+    2024 : v2.0 · 🏆 Won Smart India Hackathon (PARAS)
+    2025 : v3.0 · 🏆 Won SIH again (SAGAR)
+         : v3.1 · Product Strategy @ Forest Naturals → 3× revenue
+    2026 : v4.0 · 🌊 Selected for GSoC @ IOOS / NOAA
+         : v4.x · Assetary in beta · shipping continues
+```
 
-## 🏆 Hall of Fame
+## `07` · Dependencies (Stack)
+
+| | |
+| :--- | :--- |
+| `languages` | Python · C++ · Java · JavaScript · SQL · Lua |
+| `frameworks` | React · Next.js · FastAPI · Node.js |
+| `ai / ml` | TensorFlow · PyTorch |
+| `infra` | Docker · Kubernetes · Supabase |
+| `product` | Figma · Jira · PRDs · teardowns · GTM |
+
+## `08` · Open Questions
+
+*A good PRD always ends with them.*
+
+- Building something in **GovTech, geospatial, or AI-for-the-real-world**? → [tanmayrajurkar1915@gmail.com](mailto:tanmayrajurkar1915@gmail.com)
+- Hiring for **product-minded engineering** or **engineering-minded product**? → [LinkedIn](https://www.linkedin.com/in/tanmay-rajurkar-254305227/)
+- Just curious? → [Portfolio](https://tanmayrajurkar.netlify.app)
+
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SELECTED-GSoC_2026_%40_IOOS-FBBC04?style=flat-square&logo=google" />
-  <img src="https://img.shields.io/badge/WINNER-Smart%20India%20Hackathon%202025-FFD700?style=flat-square&logo=trophy" />
-  <img src="https://img.shields.io/badge/WINNER-Smart%20India%20Hackathon%202024-FFD700?style=flat-square&logo=trophy" />
-  <br/>
-  <img src="https://img.shields.io/badge/WINNER-Post_A_Thon_(Indian_Post)-silver?style=flat-square&logo=medal" />
-  <img src="https://img.shields.io/badge/1st_Runner_Up-Google_Dev_Sprint-cd7f32?style=flat-square&logo=google" />
-  <img src="https://img.shields.io/badge/Selected-EUREKA_IIT_Bombay-blue?style=flat-square&logo=iit" />
-</div>
 
----
+*"AI as a means, not an end."*
 
-<div align="center">
-  <i>🚀 "AI as a means, not an end."</i>
+<sub><b>sign-off:</b> this PRD is approved for production · status: <code>SHIPPING</code> ∎</sub>
+
 </div>

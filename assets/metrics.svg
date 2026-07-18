@@ -1,0 +1,53 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mx" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#36BCF7"/>
+      <stop offset="0.5" stop-color="#2EE6A8"/>
+      <stop offset="1" stop-color="#8A5CF6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- tile 1 : hackathon wins -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.2s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="0.5s" begin="0.2s" fill="freeze"/>
+    <rect x="0" y="8" width="285" height="160" rx="16" fill="#10151c" stroke="#1f2733"/>
+    <rect x="24" y="30" width="34" height="4" rx="2" fill="url(#mx)"/>
+    <text x="24" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="800" fill="url(#mx)">2&#215;</text>
+    <text x="24" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#c9d1d9">national hackathon wins</text>
+    <text x="24" y="140" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#8b949e">smart india hackathon '24 &#183; '25</text>
+  </g>
+
+  <!-- tile 2 : gsoc -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="0.5s" begin="0.45s" fill="freeze"/>
+    <rect x="305" y="8" width="285" height="160" rx="16" fill="#10151c" stroke="#1f2733"/>
+    <rect x="329" y="30" width="34" height="4" rx="2" fill="url(#mx)"/>
+    <text x="329" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="800" fill="url(#mx)">GSoC '26</text>
+    <text x="329" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#c9d1d9">selected &#183; IOOS / NOAA</text>
+    <text x="329" y="140" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#8b949e">ocean &amp; geospatial oss</text>
+  </g>
+
+  <!-- tile 3 : revenue -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.7s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="0.5s" begin="0.7s" fill="freeze"/>
+    <rect x="610" y="8" width="285" height="160" rx="16" fill="#10151c" stroke="#1f2733"/>
+    <rect x="634" y="30" width="34" height="4" rx="2" fill="url(#mx)"/>
+    <text x="634" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="800" fill="url(#mx)">3&#215;</text>
+    <text x="634" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#c9d1d9">revenue growth shipped</text>
+    <text x="634" y="140" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#8b949e">product + gtm @ forest naturals</text>
+  </g>
+
+  <!-- tile 4 : zero to one -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.95s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="0.5s" begin="0.95s" fill="freeze"/>
+    <rect x="915" y="8" width="285" height="160" rx="16" fill="#10151c" stroke="#1f2733"/>
+    <rect x="939" y="30" width="34" height="4" rx="2" fill="url(#mx)"/>
+    <text x="939" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="800" fill="url(#mx)">0&#8594;1</text>
+    <text x="939" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#c9d1d9">platforms taken live &#215;3</text>
+    <text x="939" y="140" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#8b949e">govtech &#183; mobility &#183; proptech</text>
+  </g>
+</svg>

@@ -1,0 +1,60 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#36BCF7"/>
+      <stop offset="0.5" stop-color="#2EE6A8"/>
+      <stop offset="1" stop-color="#8A5CF6"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0; 600 0; 0 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#36BCF7" stroke-opacity="0.05"/>
+    </pattern>
+    <clipPath id="card">
+      <rect width="1200" height="300" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" rx="18" fill="#0d1117"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+
+    <!-- ocean waves, a nod to GSoC @ IOOS -->
+    <g stroke="url(#accent)" fill="none" stroke-width="2">
+      <path d="M0 252 Q75 234 150 252 T300 252 T450 252 T600 252 T750 252 T900 252 T1050 252 T1200 252 T1350 252 T1500 252 T1650 252 T1800 252" stroke-opacity="0.35">
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-300 0" dur="7s" repeatCount="indefinite"/>
+      </path>
+      <path d="M0 272 Q75 258 150 272 T300 272 T450 272 T600 272 T750 272 T900 272 T1050 272 T1200 272 T1350 272 T1500 272 T1650 272 T1800 272" stroke-opacity="0.18">
+        <animateTransform attributeName="transform" type="translate" from="-150 0" to="-450 0" dur="11s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <!-- watermark -->
+    <text x="960" y="180" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="120" font-weight="700" fill="#E6EDF3" fill-opacity="0.06">0&#8594;1</text>
+
+    <!-- top meta line -->
+    <text x="48" y="54" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#8b949e">~/tanmayrajurkar &#183; README.md</text>
+    <text x="1152" y="54" text-anchor="end" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#2EE6A8">&#9679; status: shipping</text>
+
+    <!-- name -->
+    <text x="46" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="-1" fill="#E6EDF3">Tanmay Rajurkar</text>
+    <rect x="50" y="158" width="230" height="4" rx="2" fill="url(#accent)"/>
+
+    <!-- role -->
+    <text x="48" y="198" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="21" font-weight="600" fill="url(#accent)">engineer &#215; product manager</text>
+
+    <!-- rotating facts -->
+    <g font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#9da7b3">
+      <text x="48" y="232" opacity="0">GSoC 2026 &#183; IOOS / NOAA &#183; ocean &amp; geospatial open source
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.30;0.36;1" dur="9s" begin="0s" repeatCount="indefinite"/>
+      </text>
+      <text x="48" y="232" opacity="0">2&#215; Smart India Hackathon winner &#183; 2024 &amp; 2025
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.30;0.36;1" dur="9s" begin="3s" repeatCount="indefinite"/>
+      </text>
+      <text x="48" y="232" opacity="0">0&#8594;1 builder &#183; govtech &#183; urban mobility &#183; proptech
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.30;0.36;1" dur="9s" begin="6s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <rect x="0.5" y="0.5" width="1199" height="299" rx="17.5" stroke="#1f2733"/>
+  </g>
+</svg>
