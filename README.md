@@ -16,8 +16,8 @@ Completed **Enhance NOS Skill Assessment Package's User & Developer Experience**
 
 **Selected projects**
 
-- **[SAGAR](https://sagar-v1.netlify.app)** — AI-driven marine and geospatial intelligence platform for interpreting ocean data and supporting decisions. Winner, **Smart India Hackathon 2025**.
-- **[PARAS](https://paras-v1.netlify.app)** — Predictive smart parking system combining IoT and machine learning to forecast parking availability. Winner, **Smart India Hackathon 2024**.
+- **[SAGAR](https://sagar-v1.netlify.app)** - AI-driven marine and geospatial intelligence platform for interpreting ocean data and supporting decisions. Winner, **Smart India Hackathon 2025**.
+- **[PARAS](https://paras-v1.netlify.app)** - Predictive smart parking system combining IoT and machine learning to forecast parking availability. Winner, **Smart India Hackathon 2024**.
 
 **Product work**
 
